@@ -1,0 +1,24 @@
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\Keyboard trainer.exe.config
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\Keyboard trainer.exe
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\Keyboard trainer.pdb
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.csproj.AssemblyReference.cache
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\MainWindow.g.cs
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\App.g.cs
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer_MarkupCompile.cache
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer_MarkupCompile.lref
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\MainWindow.baml
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.g.resources
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard_trainer.Properties.Resources.resources
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.csproj.GenerateResource.cache
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.csproj.CoreCompileInputs.cache
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.exe
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.pdb
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\obj\Debug\Keyboard trainer.csproj.ResolveComReference.cache
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.AccessControl.dll
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.Permissions.dll
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.Principal.Windows.dll
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.AccessControl.xml
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.Permissions.xml
+D:\reysu\Documents\WPF Projects\Keyboard trainer\Keyboard trainer\bin\Debug\System.Security.Principal.Windows.xml
